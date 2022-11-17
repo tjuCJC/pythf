@@ -13,10 +13,10 @@ It can visualize the initial condition in the INCON file and final condition in 
 ![ini_T](https://user-images.githubusercontent.com/111716358/202487750-e63cae53-8ecd-4765-8011-12b3ff7e1897.jpg)
 
 and
-![local_P](https://user-images.githubusercontent.com/111716358/202488155-f056ba25-bec8-45ef-be24-d40f7b58b2c1.jpg)
-
-![local_T](https://user-images.githubusercontent.com/111716358/202488190-845547ab-7311-4e83-ae3d-a912bc35be8a.jpg)
-
+![save_P](https://user-images.githubusercontent.com/111716358/202489062-cdecd401-8dec-447f-bae7-7c609e79a696.jpg)
+![save_T](https://user-images.githubusercontent.com/111716358/202489107-3f671b12-3fd0-4fbb-b336-7c441466a18c.jpg)
+![save_Sgas](https://user-images.githubusercontent.com/111716358/202489143-ca45c94a-c09d-4a8d-a278-1109685aa98a.jpg)
+![save_chem](https://user-images.githubusercontent.com/111716358/202489240-bd2e2070-6eab-43ba-b0e9-b4090185613c.jpg)
 
 it can also visualize the result of well.
 ![Qg Vg](https://user-images.githubusercontent.com/111716358/202487878-130b6093-5255-4a63-832c-46530bbdc7ff.jpg)
