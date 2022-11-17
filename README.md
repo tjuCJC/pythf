@@ -6,6 +6,9 @@ At current, it can only be used on the MESH with properties shown as follow: 1):
 It can modify the MESH file to change the subdomain into what you set, a sample is shown as follow.
 ![ini_Shyd](https://user-images.githubusercontent.com/111716358/202487423-38616b62-9762-4fe7-98e9-9445ea2e1579.jpg)
 
+It can caculate the initial pressure and temperature that have distribution with gredient for the active element and generate a INCON file automatically
+[INCON.txt](https://github.com/tjuCJC/pythf/files/10033064/INCON.txt)
+
 
 It can visualize the initial condition in the INCON file and final condition in the SAVE, for example:
 ![ini_P](https://user-images.githubusercontent.com/111716358/202487674-e74650b7-45d4-4284-94e1-f5b3fb76e275.jpg)
