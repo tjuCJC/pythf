@@ -9,8 +9,14 @@ It can modify the MESH file to change the subdomain into what you set, a sample 
 
 It can visualize the initial condition in the INCON file and final condition in the SAVE, for example:
 ![ini_P](https://user-images.githubusercontent.com/111716358/202487674-e74650b7-45d4-4284-94e1-f5b3fb76e275.jpg)
-and
+
 ![ini_T](https://user-images.githubusercontent.com/111716358/202487750-e63cae53-8ecd-4765-8011-12b3ff7e1897.jpg)
+
+and
+![local_P](https://user-images.githubusercontent.com/111716358/202488155-f056ba25-bec8-45ef-be24-d40f7b58b2c1.jpg)
+
+![local_T](https://user-images.githubusercontent.com/111716358/202488190-845547ab-7311-4e83-ae3d-a912bc35be8a.jpg)
+
 
 it can also visualize the result of well.
 ![Qg Vg](https://user-images.githubusercontent.com/111716358/202487878-130b6093-5255-4a63-832c-46530bbdc7ff.jpg)
